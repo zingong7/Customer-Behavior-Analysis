@@ -15,7 +15,6 @@ The analysis leverages **Python (Pandas, Seaborn, Matplotlib)** for data cleanin
 | `Customer_behavior_analysis.ipynb` | Python notebook performing data cleaning, feature engineering, exploratory data analysis (EDA), and visualizations. |
 | `Customer_behavior_analysis.sql` | SQL queries for analyzing revenue, discounts, top products, shipping comparisons, and customer segmentation. |
 | `Customer Behavior.pbix` | Power BI report visualizing key metrics such as revenue by segment, purchase trends, and seasonal patterns. |
-| `README.md` | Documentation describing the project, dataset, and analyses. |
 
 ---
 
