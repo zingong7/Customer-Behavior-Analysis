@@ -95,8 +95,3 @@ The dataset `customer_shopping_behavior.csv` contains the following fields:
 2. Run SQL queries in `Customer_behavior_analysis.sql` on a PostgreSQL database with the table `customer` loaded.  
 3. Open `Customer Behavior.pbix` in Power BI to view interactive dashboards and insights.  
 
----
-
-## License
-This project is for educational and demonstration purposes only. The data and analysis should not be used for commercial purposes without permission.
-
